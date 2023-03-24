@@ -14,8 +14,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/simple-qr-code-component-built-with-flexbox-A9uz12tCdF))
+- Live Site URL: [live site URL]([https://your-live-site-url.com](https://qr-code-component-sepia-three.vercel.app/))
 
 ## My process
 
