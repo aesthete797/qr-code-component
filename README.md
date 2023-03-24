@@ -9,7 +9,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
   - [Links](#links)
   - [Built with](#built-with)
-- [Author](#author)
+  -  [Resources](#resources)
+  - [Author](#author)
+
 
 
 ### Links
@@ -17,13 +19,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/simple-qr-code-component-built-with-flexbox-A9uz12tCdF)
 - Live Site URL: [live site URL](https://qr-code-component-sepia-three.vercel.app/)
 
-## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+## Resources 
+
+- webcode tools: [Box Shadow Generator](https://webcode.tools/generators/css/box-shadow)
 
 ## Author
 
